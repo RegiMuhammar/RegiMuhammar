@@ -17,9 +17,9 @@ Data and AI professional with **3+ years of cross-functional experience** spanni
 
 ### Selected Projects
 
-- **SCIC:** LangGraph multi-agent analytics with validated read-only NL2SQL and operational decision intelligence.
-- **SPBEBOT:** RAG chatbot combining document retrieval and knowledge graphs for evidence-based SPBE assessment.
-- **AI Review Engine:** Multi-step document processing and evaluation using LangGraph and FastAPI.
+- [**SCIC:**](https://github.com/RegiMuhammar/scic-indoprima) LangGraph multi-agent analytics with validated read-only NL2SQL and operational decision intelligence.
+- [**SPBEBOT:**](https://github.com/RegiMuhammar/SPBEBOT) RAG chatbot combining document retrieval and knowledge graphs for evidence-based SPBE assessment.
+- [**AI Article & Paper Review Engine:**](https://github.com/RegiMuhammar/agent-review-fastrack) Multi-step document processing and evaluation using LangGraph and FastAPI.
 
 ### Let's Connect
 
